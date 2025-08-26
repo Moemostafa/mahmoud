@@ -1,2 +1,2 @@
 def m():
-    return
+    return 'hi'
