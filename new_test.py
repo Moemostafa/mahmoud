@@ -1,2 +1,2 @@
-def test_2():
-    return 'not hi'
+def test_2(name):
+    return f'not hi{name}'
